@@ -1,4 +1,4 @@
-@import url(./src/css/reset.css);
+@import url(/src/css/reset.css);
 
 main::after {
     content: "";
@@ -68,6 +68,7 @@ main .personagem.selecionado {
     background: rgba(0, 0, 0, 0.3);
     z-index: 1;
     cursor: pointer;
+    list-style: none;
 }
 .botoes li {
     padding: 20px;
