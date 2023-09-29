@@ -20,7 +20,6 @@ main .personagem .video  {
     object-fit: cover;
 }
 main .personagem.selecionado {
-    /*EXPLICAR ESSE SELETOR*/
     display: block;
   }
 .botao img {
